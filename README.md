@@ -24,9 +24,11 @@ Please follow the instructions **step-by-step** to ensure **GPU** support and su
 
 4. In the **second-to-last code cell**, you will see:
 
-<img width="1174" alt="image" src="https://github.com/user-attachments/assets/ac919047-6ebe-412b-94a4-f7f2abad4be1" />
-
+   ```bash
+   !wget -q -O - https://loca.lt/mytunnelpassword
+   
 This will display a Tunnel Password. Copy and keep this password — you’ll need it in the next step.
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/ac919047-6ebe-412b-94a4-f7f2abad4be1" />
 
 
 5. In the last code cell, run this command:
@@ -35,10 +37,10 @@ This will display a Tunnel Password. Copy and keep this password — you’ll ne
 
 Click this URL to access your Streamlit app.
 
-<img width="1174" alt="image" src="https://github.com/user-attachments/assets/3778b1b3-a3f6-4779-bcba-18754362bf7f" />
-
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/de60af71-b43a-4eca-8856-87c6ad037f77" />
 
 6. When prompted, paste the Tunnel Password from step 5.
+
 <img width="1174" alt="image" src="https://github.com/user-attachments/assets/c0ac1f23-ac90-4171-8439-c4f0c32ded04" />
 
 7. Once authenticated, the web app will open and you’ll see the interactive interface like below:
