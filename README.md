@@ -29,7 +29,8 @@ Please follow the instructions **step-by-step** to ensure **GPU** support and su
 
 
 This will display a Tunnel Password. Copy and keep this password — you’ll need it in the next step.
-<img width="354" alt="image" src="https://github.com/user-attachments/assets/77e888cf-e8d2-4573-9d07-420969c2b4a6" />
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/ac919047-6ebe-412b-94a4-f7f2abad4be1" />
+
 
 5. In the last code cell, run this command:
    ```bash
@@ -37,14 +38,14 @@ This will display a Tunnel Password. Copy and keep this password — you’ll ne
 
 Click this URL to access your Streamlit app.
 
-<img width="846" alt="image" src="https://github.com/user-attachments/assets/3778b1b3-a3f6-4779-bcba-18754362bf7f" />
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/3778b1b3-a3f6-4779-bcba-18754362bf7f" />
 
 
 6. When prompted, paste the Tunnel Password from step 5.
 <img width="1174" alt="image" src="https://github.com/user-attachments/assets/c0ac1f23-ac90-4171-8439-c4f0c32ded04" />
 
 7. Once authenticated, the web app will open and you’ll see the interactive interface like below:
-<img width="951" alt="image" src="https://github.com/user-attachments/assets/4999ff37-4ad6-4eb5-a2b6-498b747d3547" />
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/4999ff37-4ad6-4eb5-a2b6-498b747d3547" />
 
 8. To get started, please see the example workflow or watch the video tutorial provided below.
 ---
