@@ -26,10 +26,6 @@ Please follow the instructions **step-by-step** to ensure **GPU** support and su
 
 <img width="1174" alt="image" src="https://github.com/user-attachments/assets/ac919047-6ebe-412b-94a4-f7f2abad4be1" />
 
-   ```bash
-   !wget -q -O - https://loca.lt/mytunnelpassword
-
-
 This will display a Tunnel Password. Copy and keep this password — you’ll need it in the next step.
 
 
