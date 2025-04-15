@@ -46,7 +46,7 @@ Click this URL to access your Streamlit app.
 7. Once authenticated, the web app will open and you’ll see the interactive interface like below:
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/4999ff37-4ad6-4eb5-a2b6-498b747d3547" />
 
-8. Please see the below example workflow or video tutorial to use this website
+8. To get started, please see the example workflow or watch the video tutorial provided below.
 ---
 
 ## 🖼 Example Workflow
@@ -64,8 +64,7 @@ Click this URL to access your Streamlit app.
 
 ## 🎥 Video Tutorial
 
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=aI19rF6wwPc&ab_channel=PathSong))
-
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/aI19rF6wwPc/0.jpg)](https://youtu.be/aI19rF6wwPc?si=3N8ps4uLSC8Yg3-7)
 
 ---
 
