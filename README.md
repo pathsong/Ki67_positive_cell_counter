@@ -1,4 +1,4 @@
-# Ki67_positive_cell_counter
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/ef8df1f6-b35a-47fc-8e56-6dd71a8de8b1" /># Ki67_positive_cell_counter
 This interactive web app allows users to upload histopathological images (e.g., IHC-stained tissues) and count Ki67-positive cells versus total cells using deep-learning-based segmentation via [Cellpose](https://www.cellpose.org/). It is designed to work seamlessly in Google Colab using `streamlit` and `localtunnel`.
 
 
@@ -52,17 +52,28 @@ Click this URL to access your Streamlit app.
 ## 🖼 Example Workflow
 
 1. Upload an H&E or DAB-stained image
+   <img width="553" alt="image" src="https://github.com/user-attachments/assets/d4372490-ac88-4ad3-ba42-0a11315c5af6" />
+
 2. Preview Hematoxylin (H) and DAB (D) channels via color deconvolution
-3. Adjust percentile-based contrast range
+   <img width="575" alt="image" src="https://github.com/user-attachments/assets/a876f3f2-9acf-4897-9cea-78b38ff55a97" />
+
+3. 💡 If the preview result is not satisfactory, adjust the percentile-based contrast ranges
+      and then re-click the **Preview H and D channels** button to update the visualization.
+   <img width="571" alt="image" src="https://github.com/user-attachments/assets/3d307e25-6086-4dab-8b30-760a723465fd" />
+
 4. Run Cellpose segmentation
+   <img width="561" alt="image" src="https://github.com/user-attachments/assets/511f1511-cb5f-4e47-ae05-3e65bab6a6fd" />
+
 5. Automatically compute:
    - Total cells (from H channel)
    - Ki67-positive cells (from D channel)
    - Proliferation index (%) = D / H × 100
 
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/607ee609-2a26-457d-b6af-0d59afdc4ce9" />
+
 ---
 
-## 🎥 Video Tutorial
+## 🎥 Watch Video Tutorial
 
 [![Watch the tutorial on YouTube](https://img.youtube.com/vi/aI19rF6wwPc/0.jpg)](https://youtu.be/aI19rF6wwPc?si=3N8ps4uLSC8Yg3-7)
 
