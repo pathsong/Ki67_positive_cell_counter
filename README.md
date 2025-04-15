@@ -52,19 +52,20 @@ Click this URL to access your Streamlit app.
 ## 🖼 Example Workflow
 
 1. Upload an H&E or DAB-stained image
+   
    <img width="553" alt="image" src="https://github.com/user-attachments/assets/d4372490-ac88-4ad3-ba42-0a11315c5af6" />
 
-2. Preview Hematoxylin (H) and DAB (D) channels via color deconvolution
+3. Preview Hematoxylin (H) and DAB (D) channels via color deconvolution
    <img width="575" alt="image" src="https://github.com/user-attachments/assets/a876f3f2-9acf-4897-9cea-78b38ff55a97" />
 
-3. 💡 If the preview result is not satisfactory, adjust the percentile-based contrast ranges
+4. 💡 If the preview result is not satisfactory, adjust the percentile-based contrast ranges
       and then re-click the **Preview H and D channels** button to update the visualization.
    <img width="571" alt="image" src="https://github.com/user-attachments/assets/3d307e25-6086-4dab-8b30-760a723465fd" />
 
-4. Run Cellpose segmentation
+5. Run Cellpose segmentation
    <img width="561" alt="image" src="https://github.com/user-attachments/assets/511f1511-cb5f-4e47-ae05-3e65bab6a6fd" />
 
-5. Automatically compute:
+6. Automatically compute:
    - Total cells (from H channel)
    - Ki67-positive cells (from D channel)
    - Proliferation index (%) = D / H × 100
