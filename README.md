@@ -11,7 +11,7 @@ Please follow the instructions **step-by-step** to ensure **GPU** support and su
 
 1. **Click the button below to open the Colab notebook:**
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([COLAB_LINK_HERE](https://colab.research.google.com/drive/1xXbcXlTgoMBjKhtkVYsz0DMwsaF90iWK?usp=sharing))
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xXbcXlTgoMBjKhtkVYsz0DMwsaF90iWK?usp=sharing)
 
 
 2. **Change the runtime type to use a GPU**:  
