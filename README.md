@@ -1,4 +1,4 @@
-<img width="562" alt="image" src="https://github.com/user-attachments/assets/ef8df1f6-b35a-47fc-8e56-6dd71a8de8b1" /># Ki67_positive_cell_counter
+# Ki67_positive_cell_counter
 This interactive web app allows users to upload histopathological images (e.g., IHC-stained tissues) and count Ki67-positive cells versus total cells using deep-learning-based segmentation via [Cellpose](https://www.cellpose.org/). It is designed to work seamlessly in Google Colab using `streamlit` and `localtunnel`.
 
 
