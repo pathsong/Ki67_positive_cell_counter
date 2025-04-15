@@ -55,7 +55,7 @@ Click this URL to access your Streamlit app.
    
    <img width="553" alt="image" src="https://github.com/user-attachments/assets/d4372490-ac88-4ad3-ba42-0a11315c5af6" />
 
-3. Preview Hematoxylin (H) and DAB (D) channels via color deconvolution
+3. Click the Preview H and D channels get color deconvolution
    <img width="575" alt="image" src="https://github.com/user-attachments/assets/a876f3f2-9acf-4897-9cea-78b38ff55a97" />
 
 4. 💡 If the preview result is not satisfactory, adjust the percentile-based contrast ranges
