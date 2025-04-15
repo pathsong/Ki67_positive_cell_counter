@@ -29,6 +29,7 @@ Please follow the instructions **step-by-step** to ensure **GPU** support and su
 
 
 This will display a Tunnel Password. Copy and keep this password — you’ll need it in the next step.
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/77e888cf-e8d2-4573-9d07-420969c2b4a6" />
 
 5. In the last code cell, run this command:
    ```bash
@@ -36,9 +37,17 @@ This will display a Tunnel Password. Copy and keep this password — you’ll ne
 
 Click this URL to access your Streamlit app.
 
+<img width="846" alt="image" src="https://github.com/user-attachments/assets/3778b1b3-a3f6-4779-bcba-18754362bf7f" />
+
+
 6. When prompted, paste the Tunnel Password from step 5.
-Once authenticated, the web app will open and you’ll see the interactive interface like below:
 <img width="1174" alt="image" src="https://github.com/user-attachments/assets/c0ac1f23-ac90-4171-8439-c4f0c32ded04" />
+
+7. Once authenticated, the web app will open and you’ll see the interactive interface like below:
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/4999ff37-4ad6-4eb5-a2b6-498b747d3547" />
+
+8. Please see the below example workflow or video tutorial to use this website
+---
 
 ## 🖼 Example Workflow
 
@@ -53,13 +62,10 @@ Once authenticated, the web app will open and you’ll see the interactive inter
 
 ---
 
-## 📸 Preview
+## 🎥 Video Tutorial
 
-| Upload | H & D Channels | Output with Overlays |
-|--------|----------------|-----------------------|
-| ![Upload](images/upload.png) | ![Channels](images/hed_preview.png) | ![Overlay](images/overlay_result.png) |
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=aI19rF6wwPc&ab_channel=PathSong))
 
-> *(Replace these with your own screenshots if available)*
 
 ---
 
